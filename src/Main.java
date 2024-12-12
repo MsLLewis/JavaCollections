@@ -9,7 +9,49 @@ public class Main {
 
 
     public static void main(String[] args) {
-      //  Employee emp1 = new Employee(1, "Jane Doe");
+
+        TreeMapClass treeMapClass = new TreeMapClass();
+        treeMapClass.useTreeMap();
+
+      //  HashMapClass hashMapClass = new HashMapClass();
+       // hashMapClass.useHashMap();
+
+       // HashSetClass hashSetClass = new HashSetClass();
+       // hashSetClass.useHashSet();
+
+     //   TreeSetClass treeSetClass = new TreeSetClass();
+      //  treeSetClass.useTreeSet();
+
+    //  HashSetClass hashSetClass = new HashSetClass();
+     //   hashSetClass.useHashSet();
+
+
+
+
+
+
+
+
+
+
+
+
+
+//        String input = "example";
+//        int bucketSize = 10; // Simulating an array of 10 buckets
+//        int bucketIndex = calculateHashBucket(input, bucketSize);
+//
+//        System.out.println("Input: " + input);
+//        System.out.println("Hash Code: " + input.hashCode());
+//        System.out.println("Bucket Index: " + bucketIndex);
+//    }
+//
+//    public static int calculateHashBucket(String value, int bucketSize) {
+//        int hash = value.hashCode(); // Generate the hash code for the input
+//        return Math.abs(hash % bucketSize); // Map the hash code to a bucket index
+
+
+        //  Employee emp1 = new Employee(1, "Jane Doe");
 //        Employee emp2 = new Employee(2, "John Doe");
 //        Employee emp3 = new Employee(3, "Lisa Smith");
 //
@@ -46,9 +88,9 @@ public class Main {
 
    // arrayListManipulation.useQueue();
 
-        EmployeeLinkedList linkedList =new EmployeeLinkedList();
+      //  EmployeeLinkedList linkedList =new EmployeeLinkedList();
 
-        linkedList.useLinkedList();
+     //   linkedList.useLinkedList();
 
 
     }
