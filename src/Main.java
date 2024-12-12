@@ -1,8 +1,4 @@
-import model.Employee;
-import utils.ArrayListManipulation;
-import utils.EmployeeLinkedList;
-
-import java.util.ArrayList;
+import collections.TreeMapClass;
 
 
 public class Main {
@@ -13,16 +9,16 @@ public class Main {
         TreeMapClass treeMapClass = new TreeMapClass();
         treeMapClass.useTreeMap();
 
-      //  HashMapClass hashMapClass = new HashMapClass();
+      //  collections.HashMapClass hashMapClass = new collections.HashMapClass();
        // hashMapClass.useHashMap();
 
-       // HashSetClass hashSetClass = new HashSetClass();
+       // collections.HashSetClass hashSetClass = new collections.HashSetClass();
        // hashSetClass.useHashSet();
 
-     //   TreeSetClass treeSetClass = new TreeSetClass();
+     //   collections.TreeSetClass treeSetClass = new collections.TreeSetClass();
       //  treeSetClass.useTreeSet();
 
-    //  HashSetClass hashSetClass = new HashSetClass();
+    //  collections.HashSetClass hashSetClass = new collections.HashSetClass();
      //   hashSetClass.useHashSet();
 
 

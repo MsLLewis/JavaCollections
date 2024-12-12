@@ -1,4 +1,5 @@
-import java.awt.datatransfer.SystemFlavorMap;
+package collections;
+
 import java.util.HashMap;
 import java.util.Map;
 
